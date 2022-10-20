@@ -1,4 +1,4 @@
 cmake_minimum_required (VERSION 2.6)
-project (universe)
-add_executable(universe src/UniverseTest.cpp src/Exercises/Universe.h src/Exercises/Universe.cpp)
+project (speakingthread)
+add_executable(speakingthread src/SpeakingThreadTest.cpp src/Exercises/MainUtil.h src/Exercises/MutexData.h src/Exercises/SpeakingThread.h src/Exercises/SpeakingThread.cpp)
 
